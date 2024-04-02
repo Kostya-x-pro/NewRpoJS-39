@@ -1,5 +1,7 @@
 'use strict';
 
+let user = 'John';
+
 function greating(text) {
   console.log(text);
 }
